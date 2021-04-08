@@ -1,2 +1,2 @@
 # processNLP
-summarize article
+Express app for Article Summarization
